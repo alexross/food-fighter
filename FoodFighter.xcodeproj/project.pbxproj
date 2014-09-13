@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA51AF5E19BD67F600AFAE15 /* FFCombatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA51AF5D19BD67F600AFAE15 /* FFCombatViewController.m */; };
+		FA51AF6119BF5EE000AFAE15 /* FFInfoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA51AF6019BF5EE000AFAE15 /* FFInfoViewController.m */; };
+		FA51AF6519C3C18200AFAE15 /* FFMob.m in Sources */ = {isa = PBXBuildFile; fileRef = FA51AF6419C3C18200AFAE15 /* FFMob.m */; };
+		FA51AF6819C3C31300AFAE15 /* FFGame.m in Sources */ = {isa = PBXBuildFile; fileRef = FA51AF6719C3C31300AFAE15 /* FFGame.m */; };
+		FA9CA92119BD43DB00DD8377 /* ComicNeue-Angular-Bold-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91519BD43DB00DD8377 /* ComicNeue-Angular-Bold-Oblique.ttf */; };
+		FA9CA92219BD43DB00DD8377 /* ComicNeue-Angular-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91619BD43DB00DD8377 /* ComicNeue-Angular-Bold.ttf */; };
+		FA9CA92319BD43DB00DD8377 /* ComicNeue-Angular-Light-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91719BD43DB00DD8377 /* ComicNeue-Angular-Light-Oblique.ttf */; };
+		FA9CA92419BD43DB00DD8377 /* ComicNeue-Angular-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91819BD43DB00DD8377 /* ComicNeue-Angular-Light.ttf */; };
+		FA9CA92519BD43DB00DD8377 /* ComicNeue-Angular-Regular-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91919BD43DB00DD8377 /* ComicNeue-Angular-Regular-Oblique.ttf */; };
+		FA9CA92619BD43DB00DD8377 /* ComicNeue-Angular-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91A19BD43DB00DD8377 /* ComicNeue-Angular-Regular.ttf */; };
+		FA9CA92719BD43DB00DD8377 /* ComicNeue-Bold-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91B19BD43DB00DD8377 /* ComicNeue-Bold-Oblique.ttf */; };
+		FA9CA92819BD43DB00DD8377 /* ComicNeue-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91C19BD43DB00DD8377 /* ComicNeue-Bold.ttf */; };
+		FA9CA92919BD43DB00DD8377 /* ComicNeue-Light-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91D19BD43DB00DD8377 /* ComicNeue-Light-Oblique.ttf */; };
+		FA9CA92A19BD43DB00DD8377 /* ComicNeue-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91E19BD43DB00DD8377 /* ComicNeue-Light.ttf */; };
+		FA9CA92B19BD43DB00DD8377 /* ComicNeue-Regular-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA91F19BD43DB00DD8377 /* ComicNeue-Regular-Oblique.ttf */; };
+		FA9CA92C19BD43DB00DD8377 /* ComicNeue-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA9CA92019BD43DB00DD8377 /* ComicNeue-Regular.ttf */; };
 		FAC9192319B8EFA700FFF67F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAC9192219B8EFA700FFF67F /* Foundation.framework */; };
 		FAC9192519B8EFA700FFF67F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAC9192419B8EFA700FFF67F /* CoreGraphics.framework */; };
 		FAC9192719B8EFA700FFF67F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FAC9192619B8EFA700FFF67F /* UIKit.framework */; };
@@ -34,6 +50,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FA51AF5C19BD67F600AFAE15 /* FFCombatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FFCombatViewController.h; sourceTree = "<group>"; };
+		FA51AF5D19BD67F600AFAE15 /* FFCombatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FFCombatViewController.m; sourceTree = "<group>"; };
+		FA51AF5F19BF5EE000AFAE15 /* FFInfoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FFInfoViewController.h; sourceTree = "<group>"; };
+		FA51AF6019BF5EE000AFAE15 /* FFInfoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FFInfoViewController.m; sourceTree = "<group>"; };
+		FA51AF6319C3C18200AFAE15 /* FFMob.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FFMob.h; sourceTree = "<group>"; };
+		FA51AF6419C3C18200AFAE15 /* FFMob.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FFMob.m; sourceTree = "<group>"; };
+		FA51AF6619C3C31300AFAE15 /* FFGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FFGame.h; sourceTree = "<group>"; };
+		FA51AF6719C3C31300AFAE15 /* FFGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FFGame.m; sourceTree = "<group>"; };
+		FA9CA91519BD43DB00DD8377 /* ComicNeue-Angular-Bold-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Angular-Bold-Oblique.ttf"; sourceTree = "<group>"; };
+		FA9CA91619BD43DB00DD8377 /* ComicNeue-Angular-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Angular-Bold.ttf"; sourceTree = "<group>"; };
+		FA9CA91719BD43DB00DD8377 /* ComicNeue-Angular-Light-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Angular-Light-Oblique.ttf"; sourceTree = "<group>"; };
+		FA9CA91819BD43DB00DD8377 /* ComicNeue-Angular-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Angular-Light.ttf"; sourceTree = "<group>"; };
+		FA9CA91919BD43DB00DD8377 /* ComicNeue-Angular-Regular-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Angular-Regular-Oblique.ttf"; sourceTree = "<group>"; };
+		FA9CA91A19BD43DB00DD8377 /* ComicNeue-Angular-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Angular-Regular.ttf"; sourceTree = "<group>"; };
+		FA9CA91B19BD43DB00DD8377 /* ComicNeue-Bold-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Bold-Oblique.ttf"; sourceTree = "<group>"; };
+		FA9CA91C19BD43DB00DD8377 /* ComicNeue-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Bold.ttf"; sourceTree = "<group>"; };
+		FA9CA91D19BD43DB00DD8377 /* ComicNeue-Light-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Light-Oblique.ttf"; sourceTree = "<group>"; };
+		FA9CA91E19BD43DB00DD8377 /* ComicNeue-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Light.ttf"; sourceTree = "<group>"; };
+		FA9CA91F19BD43DB00DD8377 /* ComicNeue-Regular-Oblique.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Regular-Oblique.ttf"; sourceTree = "<group>"; };
+		FA9CA92019BD43DB00DD8377 /* ComicNeue-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ComicNeue-Regular.ttf"; sourceTree = "<group>"; };
 		FAC9191F19B8EFA700FFF67F /* FoodFighter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodFighter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAC9192219B8EFA700FFF67F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FAC9192419B8EFA700FFF67F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -79,9 +115,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA51AF6219C3C11F00AFAE15 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FA51AF6319C3C18200AFAE15 /* FFMob.h */,
+				FA51AF6419C3C18200AFAE15 /* FFMob.m */,
+				FA51AF6619C3C31300AFAE15 /* FFGame.h */,
+				FA51AF6719C3C31300AFAE15 /* FFGame.m */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		FA9CA91319BD43A700DD8377 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FA9CA91419BD43AE00DD8377 /* Fonts */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		FA9CA91419BD43AE00DD8377 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FA9CA91519BD43DB00DD8377 /* ComicNeue-Angular-Bold-Oblique.ttf */,
+				FA9CA91619BD43DB00DD8377 /* ComicNeue-Angular-Bold.ttf */,
+				FA9CA91719BD43DB00DD8377 /* ComicNeue-Angular-Light-Oblique.ttf */,
+				FA9CA91819BD43DB00DD8377 /* ComicNeue-Angular-Light.ttf */,
+				FA9CA91919BD43DB00DD8377 /* ComicNeue-Angular-Regular-Oblique.ttf */,
+				FA9CA91A19BD43DB00DD8377 /* ComicNeue-Angular-Regular.ttf */,
+				FA9CA91B19BD43DB00DD8377 /* ComicNeue-Bold-Oblique.ttf */,
+				FA9CA91C19BD43DB00DD8377 /* ComicNeue-Bold.ttf */,
+				FA9CA91D19BD43DB00DD8377 /* ComicNeue-Light-Oblique.ttf */,
+				FA9CA91E19BD43DB00DD8377 /* ComicNeue-Light.ttf */,
+				FA9CA91F19BD43DB00DD8377 /* ComicNeue-Regular-Oblique.ttf */,
+				FA9CA92019BD43DB00DD8377 /* ComicNeue-Regular.ttf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		FAC9191619B8EFA700FFF67F = {
 			isa = PBXGroup;
 			children = (
+				FAC9193419B8EFA700FFF67F /* Main.storyboard */,
 				FAC9192819B8EFA700FFF67F /* FoodFighter */,
 				FAC9194719B8EFA700FFF67F /* FoodFighterTests */,
 				FAC9192119B8EFA700FFF67F /* Frameworks */,
@@ -112,11 +187,16 @@
 		FAC9192819B8EFA700FFF67F /* FoodFighter */ = {
 			isa = PBXGroup;
 			children = (
+				FA51AF6219C3C11F00AFAE15 /* Models */,
+				FA9CA91319BD43A700DD8377 /* Resources */,
 				FAC9193119B8EFA700FFF67F /* FFAppDelegate.h */,
 				FAC9193219B8EFA700FFF67F /* FFAppDelegate.m */,
-				FAC9193419B8EFA700FFF67F /* Main.storyboard */,
 				FAC9193719B8EFA700FFF67F /* FFViewController.h */,
 				FAC9193819B8EFA700FFF67F /* FFViewController.m */,
+				FA51AF5C19BD67F600AFAE15 /* FFCombatViewController.h */,
+				FA51AF5D19BD67F600AFAE15 /* FFCombatViewController.m */,
+				FA51AF5F19BF5EE000AFAE15 /* FFInfoViewController.h */,
+				FA51AF6019BF5EE000AFAE15 /* FFInfoViewController.m */,
 				FAC9193A19B8EFA700FFF67F /* Images.xcassets */,
 				FAC9192919B8EFA700FFF67F /* Supporting Files */,
 			);
@@ -229,9 +309,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA9CA92B19BD43DB00DD8377 /* ComicNeue-Regular-Oblique.ttf in Resources */,
+				FA9CA92719BD43DB00DD8377 /* ComicNeue-Bold-Oblique.ttf in Resources */,
 				FAC9193B19B8EFA700FFF67F /* Images.xcassets in Resources */,
+				FA9CA92419BD43DB00DD8377 /* ComicNeue-Angular-Light.ttf in Resources */,
+				FA9CA92619BD43DB00DD8377 /* ComicNeue-Angular-Regular.ttf in Resources */,
+				FA9CA92119BD43DB00DD8377 /* ComicNeue-Angular-Bold-Oblique.ttf in Resources */,
+				FA9CA92819BD43DB00DD8377 /* ComicNeue-Bold.ttf in Resources */,
+				FA9CA92919BD43DB00DD8377 /* ComicNeue-Light-Oblique.ttf in Resources */,
 				FAC9192D19B8EFA700FFF67F /* InfoPlist.strings in Resources */,
 				FAC9193619B8EFA700FFF67F /* Main.storyboard in Resources */,
+				FA9CA92519BD43DB00DD8377 /* ComicNeue-Angular-Regular-Oblique.ttf in Resources */,
+				FA9CA92C19BD43DB00DD8377 /* ComicNeue-Regular.ttf in Resources */,
+				FA9CA92219BD43DB00DD8377 /* ComicNeue-Angular-Bold.ttf in Resources */,
+				FA9CA92A19BD43DB00DD8377 /* ComicNeue-Light.ttf in Resources */,
+				FA9CA92319BD43DB00DD8377 /* ComicNeue-Angular-Light-Oblique.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,9 +342,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA51AF6519C3C18200AFAE15 /* FFMob.m in Sources */,
+				FA51AF5E19BD67F600AFAE15 /* FFCombatViewController.m in Sources */,
 				FAC9193319B8EFA700FFF67F /* FFAppDelegate.m in Sources */,
 				FAC9192F19B8EFA700FFF67F /* main.m in Sources */,
 				FAC9193919B8EFA700FFF67F /* FFViewController.m in Sources */,
+				FA51AF6819C3C31300AFAE15 /* FFGame.m in Sources */,
+				FA51AF6119BF5EE000AFAE15 /* FFInfoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +385,7 @@
 				FAC9193519B8EFA700FFF67F /* Base */,
 			);
 			name = Main.storyboard;
+			path = FoodFighter;
 			sourceTree = "<group>";
 		};
 		FAC9194A19B8EFA700FFF67F /* InfoPlist.strings */ = {
@@ -457,6 +554,7 @@
 				FAC9195319B8EFA700FFF67F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FAC9195419B8EFA700FFF67F /* Build configuration list for PBXNativeTarget "FoodFighterTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +563,7 @@
 				FAC9195619B8EFA700FFF67F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
